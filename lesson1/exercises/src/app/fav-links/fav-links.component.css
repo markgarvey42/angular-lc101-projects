@@ -1,0 +1,11 @@
+.favLinks {
+    text-align: center;
+    border: 2px solid blue;
+    padding: 20px;
+    background: yellow;
+}
+
+h3 {
+    text-decoration: underline;
+    color: red;
+}
