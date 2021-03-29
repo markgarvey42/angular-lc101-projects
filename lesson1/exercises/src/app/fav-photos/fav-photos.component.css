@@ -3,7 +3,9 @@ h3 {
 }
 
 img {
-
+   display: block;
+   block-size: 200px;
+   float: center;
 }
 
 .photos {
